@@ -1,1 +1,1 @@
-# test_task_java
+# KATA Test task Java
